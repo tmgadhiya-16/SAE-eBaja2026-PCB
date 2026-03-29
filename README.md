@@ -90,7 +90,11 @@
 
 
 
-| ![PCB](3D-Renders/PCB-1-Front.jpg) | ![PCB](3D-Renders/PCB-2-Back.png)
+![PCB](3D-Renders/PCB-1-Front.jpg)
+
+
+
+![PCB](3D-Renders/PCB-2-Back.png)
 
 
 
