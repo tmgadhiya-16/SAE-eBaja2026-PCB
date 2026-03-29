@@ -10,21 +10,23 @@
 
 
 
-**🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
+## **🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
 
 
 
 **!\[PCB](3D-Renders/PCB-1-Front.png)**
 
-**!\[PCB](3D-Renders/PCB-2-Back.jpg)**
+**!\[PCB](3D-Renders/PCB-2-Back.png)**
 
-
+**!\[PCB Photo](3D-Renders/PCB-Image.jpg)**
 
 \---
 
 
 
-**📌 Overview**
+## **📌 Overview**
+
+
 
 **A fully functional 2-layer Vehicle Control Unit (VCU) PCB designed for the**
 
@@ -38,7 +40,9 @@
 
 
 
-**⚙️ Features**
+## **⚙️ Features**
+
+
 
 **- ✅ Accelerator control**
 
@@ -64,9 +68,7 @@
 
 
 
-**🛠️ Components Used**
-
-**| Component | Purpose |**
+## **🛠️ Components Used**
 
 
 
@@ -84,18 +86,19 @@
 
 
 
-**🖼️ 3D Renders**
+## **🖼️ 3D Renders**
 
 
 
 | ![PCB](3D-Renders/PCB-1-Front.png) | ![PCB](3D-Renders/PCB-1-Back.png)
 
 
+
 **---**
 
 
 
-## 📷 Actual PCB Photo
+## **📷 Actual PCB Photo**
 
 
 
@@ -107,7 +110,7 @@
 
 
 
-**🏆 Competition**
+## **🏆 Competition**
 
 **- SAE eBaja 2026**
 
@@ -119,7 +122,7 @@
 
 
 
-**🧰 Tools Used**
+## **🧰 Tools Used**
 
 **- KiCad (PCB Design)**
 
@@ -133,7 +136,7 @@
 
 
 
-**👨‍💻 Author**
+## **👨‍💻 Author**
 
 **\*\*Tirth Gadhiya\*\***
 
