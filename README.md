@@ -138,7 +138,7 @@
 
 ## **👨‍💻 Author**
 
-**\*\*Tirth Gadhiya\*\***
+**Tirth Gadhiya**
 
 **Electronics \& Communication Engineering**
 
