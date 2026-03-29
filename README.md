@@ -88,7 +88,7 @@
 
 
 
-**| !\[PCB](3D-Renders/PCB-1-Front.png) | !\[PCB](3D-Renders/PCB-1-Back.png)**
+| ![PCB](3D-Renders/PCB-1-Front.png) | ![PCB](3D-Renders/PCB-1-Back.png)
 
 
 **---**
