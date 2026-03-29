@@ -16,7 +16,7 @@
 
 **!\[PCB](3D-Renders/PCB-1-Front.png)**
 
-**!\[PCB](3D-Renders/PCB-2-Front.jpg)**
+**!\[PCB](3D-Renders/PCB-2-Back.jpg)**
 
 
 
