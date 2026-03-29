@@ -4,118 +4,121 @@
 
 
 
-\## **VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
-
-
-
-!\[PCB](3D-Renders/PCB-Front.png)
-
-
-
-\## Overview
-
-A fully functional **2-layer Vehicle Control Unit (VCU)** PCB designed for the 
-
-**SAE eBaja 2026** and **ATVC 2026** electric Baja vehicle. This board manages the 
-
-entire 12V low-voltage control circuit of the vehicle.
-
-
-
 \---
 
 
 
-\# Features
-
-\- Accelerator control
-
-\- Brake control with brake light output
-
-\- Reverse light \& reverse alarm
-
-\- LV (Low Voltage) indicator light
-
-\- HV (High Voltage) indicator light
-
-\- Key switch integration
-
-\- Optocoupler-based isolation for safety
-
-\- MOSFET-driven outputs
-
-\- Relay control for high current loads
+**# 🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
 
 
 
-\---
+**!\[PCB](3D-Renders/PCB-Front.png)**
 
 
 
-\# Components Used
+**## 📌 Overview**
 
-| Component | Purpose |
+**A fully functional \*\*2-layer Vehicle Control Unit (VCU) PCB\*\* designed for the** 
 
+**SAE eBaja 2026 and ATVC 2026 electric Baja vehicle. This board manages the** 
 
-
-| Arduino Mega 2560 | Main microcontroller |
-
-| MOSFETs | Switching outputs |
-
-| Optocouplers | Electrical isolation |
-
-| Relays | High current load switching |
-| Resistors | Current controlling |
+**entire 12V low-voltage control circuit of the vehicle.**
 
 
 
-\---
+**---**
 
 
 
-\# 3D Renders
+**## ⚙️ Features**
 
-| Front | Back |
+**- ✅ Accelerator control**
 
+**- ✅ Brake control with brake light output**
 
+**- ✅ Reverse light \& reverse alarm**
 
-| !\[Front](3D-Renders/PCB-Front.png) | !\[Back](3D-Renders/PCB-Back.png) |
+**- ✅ LV (Low Voltage) indicator light**
 
+**- ✅ HV (High Voltage) indicator light**
 
+**- ✅ Key switch integration**
 
-\---
+**- ✅ Optocoupler-based isolation for safety**
 
+**- ✅ MOSFET-driven outputs**
 
-
-\# Competition
-
-\- SAE eBaja 2026
-
-\- ATVC 2026
-
-
-
-\---
+**- ✅ Relay control for high current loads**
 
 
 
-\# Tools Used
-
-\- KiCad (PCB Design)
-
-\- Git \& GitHub (Version Control)
+**---**
 
 
 
-\---
+**## 🛠️ Components Used**
+
+**| Component | Purpose |**
+
+**|---|---|**
+
+**| Arduino Mega 2560 | Main microcontroller |**
+
+**| MOSFETs | Switching outputs |**
+
+**| Optocouplers | Electrical isolation |**
+
+**| Relays | High current load switching |**
 
 
 
-\## 👨‍💻 Author
+**---**
 
-Tirth Gadhiya
 
-Electronics \& Communication Engineering
 
-Birla Vishvakarma Mahavidyalaya, Anand
+**## 🖼️ 3D Renders**
+
+**| Front | Back |**
+
+**|---|---|**
+
+**| !\[Front](3D-Renders/PCB-Front.png) | !\[Back](3D-Renders/PCB-Back.png) |**
+
+
+
+**---**
+
+
+
+**## 🏆 Competition**
+
+**- \*\*SAE eBaja 2026\*\***
+
+**- \*\*ATVC 2026\*\***
+
+
+
+**---**
+
+
+
+**## 🧰 Tools Used**
+
+**- KiCad (PCB Design)**
+
+**- Git \& GitHub (Version Control)**
+
+
+
+**---**
+
+
+
+**## 👨‍💻 Author**
+
+**\*\*Tirth Gadhiya\*\***
+
+**Electronics \& Communication Engineering**
+
+**Birla Vishvakarma Mahavidyalaya, Anand**
 
