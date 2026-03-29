@@ -8,19 +8,25 @@
 
 
 
-**# 🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
+**🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
 
 
 
-**!\[PCB](3D-Renders/PCB-Front.png)**
+**!\[PCB](3D-Renders/PCB-1-Front.png)**
+
+**!\[PCB](3D-Renders/PCB-2-Front.png)**
 
 
 
-**## 📌 Overview**
+\---
 
-**A fully functional \*\*2-layer Vehicle Control Unit (VCU) PCB\*\* designed for the** 
 
-**SAE eBaja 2026 and ATVC 2026 electric Baja vehicle. This board manages the** 
+
+**📌 Overview**
+
+**A fully functional 2-layer Vehicle Control Unit (VCU) PCB designed for the**
+
+**SAE eBaja 2026 and ATVC 2026 electric Baja vehicle. This board manages the**
 
 **entire 12V low-voltage control circuit of the vehicle.**
 
@@ -30,7 +36,7 @@
 
 
 
-**## ⚙️ Features**
+**⚙️ Features**
 
 **- ✅ Accelerator control**
 
@@ -56,11 +62,11 @@
 
 
 
-**## 🛠️ Components Used**
+**🛠️ Components Used**
 
 **| Component | Purpose |**
 
-**|---|---|**
+
 
 **| Arduino Mega 2560 | Main microcontroller |**
 
@@ -76,25 +82,13 @@
 
 
 
-**## 🖼️ 3D Renders**
+**🖼️ 3D Renders**
 
 **| Front | Back |**
 
-**|---|---|**
-
-**| !\[Front](3D-Renders/PCB-Front.png) | !\[Back](3D-Renders/PCB-Back.png) |**
 
 
-
-**---**
-
-
-
-**## 🏆 Competition**
-
-**- \*\*SAE eBaja 2026\*\***
-
-**- \*\*ATVC 2026\*\***
+**| !\[Front](3D-Renders/PCB-1-Front.png) | !\[Back](3D-Renders/PCB-1-Back.png) |**
 
 
 
@@ -102,11 +96,25 @@
 
 
 
-**## 🧰 Tools Used**
+**🏆 Competition**
+
+**- SAE eBaja 2026**
+
+**- ATVC 2026**
+
+
+
+**---**
+
+
+
+**🧰 Tools Used**
 
 **- KiCad (PCB Design)**
 
-**- Git \& GitHub (Version Control)**
+**- Proteus (Circuit Simulation)**
+
+**- Arduino IDE (Programming)**
 
 
 
@@ -114,7 +122,7 @@
 
 
 
-**## 👨‍💻 Author**
+**👨‍💻 Author**
 
 **\*\*Tirth Gadhiya\*\***
 
