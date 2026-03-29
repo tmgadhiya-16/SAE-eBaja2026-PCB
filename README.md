@@ -86,11 +86,20 @@
 
 **🖼️ 3D Renders**
 
-**| Front | Back |**
+
+
+**| !\[Front](3D-Renders/PCB-1-Front.png) | !\[Back](3D-Renders/PCB-1-Back.png)**
+
+
+**---**
 
 
 
-**| !\[Front](3D-Renders/PCB-1-Front.png) | !\[Back](3D-Renders/PCB-1-Back.png) | !(3D-Renders/PCB-Image.png)**
+## 📷 Actual PCB Photo
+
+
+
+![PCB Photo](3D-Renders/PCB-Image.jpg)
 
 
 
