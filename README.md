@@ -2,7 +2,7 @@
 
 # Baja2026-PCB
 
-2-layer PCB design for SAE eBaja 2026 electric vehicle - designed in KiCad
+2-layer PCB design for eBaja electric vehicle - designed in KiCad
 
 
 
@@ -11,6 +11,21 @@
 
 
 ## **🚗 VCU — Vehicle Control Unit | SAE eBaja 2026 \& ATVC 2026**
+
+
+**---**
+
+
+
+## **🏆 Competition**
+
+**- SAE eBaja 2026**
+
+**- ATVC 2026**
+
+
+
+**---**
 
 
 
@@ -112,17 +127,6 @@
 
 **---**
 
-
-
-## **🏆 Competition**
-
-**- SAE eBaja 2026**
-
-**- ATVC 2026**
-
-
-
-**---**
 
 
 
