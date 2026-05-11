@@ -1,6 +1,6 @@
 # **TEAM ARYARATH**
 
-# Baja2026-PCB
+# eBAJA-PCB
 
 2-layer PCB design for eBaja electric vehicle - designed in KiCad
 
